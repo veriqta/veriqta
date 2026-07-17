@@ -1,0 +1,8 @@
+name: Update YouTube Cards
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  ...
