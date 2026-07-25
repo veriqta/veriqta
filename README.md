@@ -4,17 +4,6 @@
 <p>DevOps | Cloud | DevSecOps | SRE | Platform Engineering | Technical Education</p>
 
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Class40 - DevOps - final cicd](https://ytcards.demolab.com/?id=JBmdCP6usgU&title=Class40+-+DevOps+-+final+cicd&lang=en&timestamp=1783606206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Class40 - DevOps - final cicd")](https://www.youtube.com/watch?v=JBmdCP6usgU)
-[![Class39 - DevOps - prometheus&grafana](https://ytcards.demolab.com/?id=eUSxsd-oIC4&title=Class39+-+DevOps+-+prometheus%26grafana&lang=en&timestamp=1783606165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Class39 - DevOps - prometheus&grafana")](https://www.youtube.com/watch?v=eUSxsd-oIC4)
-<!-- END YOUTUBE-CARDS -->
-
-
-
-
-  
-<h2>⚡️ Where to find me</h2>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veriqta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veriqta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@veriqta) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@veriqta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/veriqta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCgQVgFqRkaDgqWFxlodFaHw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veriqta@gmail.com) 
 # 📊 GitHub Stats:
