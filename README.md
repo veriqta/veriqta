@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/554ca2fa-4fec-4d72-ad58-8628437bc4f9" />
+
 
 <h1>Practical Engineering Knowledge for Production Systems</h1>
 <p>DevOps | Cloud | DevSecOps | SRE | Platform Engineering | Technical Education</p>
