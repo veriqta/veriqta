@@ -1,6 +1,6 @@
 
-
-<h1>Practical Engineering Knowledge for Production Systems</h1>
+<h1> Building practical infrastructure, automation, cloud-native systems,
+and open-source learning resources </h1>
 <p>DevOps | Cloud | DevSecOps | SRE | Platform Engineering | Technical Education</p>
 
 
