@@ -1,5 +1,5 @@
 <h1> Engineering modern infrastructure, automation, and open-source learning resources</h1>
-<p>DevOps | Cloud | DevSecOps | SRE | Platform Engineering | Technical Education</p>
+<p>DevOps | Cloud | DevSecOps | SRE | AI | Infrastructure | Platform Engineering | Technical Education</p>
 
 ## ⚡ What I Build
 - 🐧 Linux & Automation
