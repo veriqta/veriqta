@@ -1,3 +1,7 @@
+<img width="1983" height="793" alt="file_000000004b6881fbbf60cad41f9615ee" src="https://github.com/user-attachments/assets/fdcca450-8b35-4c7c-a50e-68ec8bb74456" />
+
+
+
 <h1> Engineering modern infrastructure, automation, and open-source learning resources</h1>
 <p>DevOps | Cloud | DevSecOps | SRE | AI | Infrastructure | Platform Engineering | Technical Education</p>
 
