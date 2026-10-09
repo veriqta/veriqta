@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">VERIQTA Press</title>
+<desc id="desc">Engineering resources for learning, practice and production understanding, from foundations to advanced engineering.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081827"/><stop offset="1" stop-color="#143448"/></linearGradient></defs>
+<rect width="1600" height="620" fill="url(#bg)"/>
+<path d="M0 0H1600" stroke="#62e3b9" stroke-width="12"/>
+<circle cx="1510" cy="60" r="240" fill="#214c5b" opacity=".45"/>
+<g fill="none" stroke="#62e3b9" stroke-width="4" opacity=".8"><rect x="1310" y="195" width="150" height="190" rx="12"/><path d="M1335 235H1435M1335 270H1435M1335 305H1400"/><path d="M1275 220V405Q1275 420 1290 420H1430"/></g>
+<g font-family="Arial,sans-serif" font-weight="700">
+<text x="80" y="82" font-size="28" fill="#62e3b9">VERIQTA PRESS</text>
+<text x="80" y="142" font-size="20" fill="#a9c3d4" letter-spacing="2">ENGINEERING PUBLICATIONS &amp; LEARNING RESOURCES</text>
+<text x="80" y="235" font-size="68" fill="#f5f9fd">KNOWLEDGE FOR</text>
+<text x="80" y="315" font-size="68" fill="#f5f9fd">ENGINEERING WORK.</text>
+<text x="80" y="378" font-size="26" fill="#bdd3e2">From first concepts to deeper production understanding.</text>
+<rect x="80" y="433" width="340" height="82" rx="14" fill="#183e50"/><text x="106" y="484" font-size="25" fill="#62e3b9">LEARN THE CONCEPTS</text>
+<rect x="450" y="433" width="340" height="82" rx="14" fill="#183e50"/><text x="476" y="484" font-size="25" fill="#62e3b9">CONNECT THE SYSTEMS</text>
+<rect x="820" y="433" width="340" height="82" rx="14" fill="#183e50"/><text x="846" y="484" font-size="25" fill="#62e3b9">APPLY YOUR KNOWLEDGE</text>
+<text x="80" y="574" font-size="20" fill="#8eafc3">FOUNDATIONS · CLOUD · DELIVERY · RELIABILITY · SECURITY · PRODUCTION</text>
+</g></svg>
